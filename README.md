@@ -12,6 +12,8 @@ that will decide the destiny of your kingdom. Defeat me and thou kingdom shall b
 
 Play as Aris Edryna, the warrior of light, and save your kingdom from obscurity.
 
+# Preview
+https://youtu.be/umgQ4VQQvtQ
 
 # Download Guide
 
