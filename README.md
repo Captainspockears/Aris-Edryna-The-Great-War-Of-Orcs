@@ -15,9 +15,14 @@ Play as Aris Edryna, the warrior of light, and save your kingdom from obscurity.
 
 # Download Guide
 
-1. Click "Clone or Download"
-2. Click "Dowload Zip"
-3. Run main.py
+1. Click https://drive.google.com/open?id=1-D2MKb7XtHtAgEg6g7zNmOlGW6G97wt5
+2. Download the Folder
+3. Execute main.py
+4. You may need to install the pygame package before execution
+
+# System Configuration
+
+The game was originally ddesigned to be played on a 1920x1080 resolution screen. If your monitor resolution is different, you may experience changes in gameplay.
 
 # Credits
 
