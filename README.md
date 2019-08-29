@@ -26,6 +26,11 @@ https://youtu.be/umgQ4VQQvtQ
 
 The game was originally ddesigned to be played on a 1920x1080 resolution screen. If your monitor resolution is different, you may experience changes in gameplay.
 
+# Sources to make games on python
+
+1. Game assets - https://craftpix.net/
+2. Tutorial - https://www.youtube.com/watch?v=i6xMBig-pP4&list=PLzMcBGfZo4-lp3jAExUCewBfMx3UZFkh5
+
 # Credits
 
 1. [Captainspockears - Game Designer](https://github.com/Captainspockears)
